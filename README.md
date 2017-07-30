@@ -1,7 +1,7 @@
 # kinect2-with-socket-sample-project
 > **v1.0**
 
-(French translation [here](https://github.com/Striffly/kinect2-with-socket-sample-project/blob/master/README-fr.md))
+(French translation [here](https://github.com/Striffly/kinect2-with-socket-sample-project/blob/master/README.fr.md))
 
 
 This is a functional project, allowing socket sending of the coordinates of the points associated with a body captured by the Kinect V2, to a web project.
