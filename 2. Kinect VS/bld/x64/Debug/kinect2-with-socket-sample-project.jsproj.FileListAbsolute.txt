@@ -1,0 +1,15 @@
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bin\x64\Debug\ReverseMap\resources.pri
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bin\x64\Debug\AppxManifest.xml
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bin\x64\Debug\kinect2-with-socket-sample-project.build.appxrecipe
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bld\x64\Debug\priconfig.xml
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bld\x64\Debug\priconfig.xml.intermediate
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bld\x64\Debug\layout.resfiles
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bld\x64\Debug\layout.resfiles.intermediate
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bld\x64\Debug\resources.resfiles
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bld\x64\Debug\resources.resfiles.intermediate
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bld\x64\Debug\pri.resfiles
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bld\x64\Debug\pri.resfiles.intermediate
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bld\x64\Debug\qualifiers.txt
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bld\x64\Debug\qualifiers.txt.intermediate
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bld\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\bld\x64\Debug\ProjectArchitectures.txt

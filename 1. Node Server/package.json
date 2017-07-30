@@ -1,0 +1,23 @@
+{
+  "name": "kinect2-with-socket-sample-project-node",
+  "version": "1.0.0",
+  "description": "Javascript application that send Kinect V2 datas through socket.",
+  "author": "Clément Gayot",
+  "homepage": "https://github.com/Striffly/kinect2-with-socket-sample-project",
+  "license": "ISC",
+  "main": "gulpfile.babel.js",
+  "devDependencies": {
+    "express": "^4.15.3",
+    "http": "0.0.0",
+    "sockjs": "^0.3.18"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Striffly/kinect2-with-socket-sample-project/issues"
+  }
+}

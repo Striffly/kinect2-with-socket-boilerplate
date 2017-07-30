@@ -1,0 +1,4 @@
+<app>
+  <appId>kinect2-socket</appId>
+  <nodeIp>http://localhost:9999/node</nodeIp>
+</app>

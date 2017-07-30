@@ -1,0 +1,1 @@
+D:\Other\Dev\GitHub\kinect2-with-socket-sample-project\2. Kinect VS\kinect2-with-socket-sample-project.jsproj;x64

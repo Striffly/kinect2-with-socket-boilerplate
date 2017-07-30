@@ -1,0 +1,4 @@
+<app>
+  <appId>invi-rog</appId>
+  <nodeIp>http://localhost:9999/kinectSock</nodeIp>
+</app>
